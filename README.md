@@ -1,5 +1,5 @@
-CAR DATA DISPLAY
+Car Data Display
 
-ANALYZING AND CREATING CHARTS FROM RAW & POLISHED CSV FILE(vehicles_us.csv)
+Analyzing and creating charts from raw to then polished csv file (vehicles_us.csv)
 
-Link to website: ********TO BE DETERMINED NEED TO GET WORKING TO DEPLOY VIA RENDER.
+Link to Website ***TBD Need to work on the Render part of the project
