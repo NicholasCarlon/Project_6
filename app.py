@@ -1,6 +1,6 @@
 # Introduction: this code creates a scatter plot and a histogram of a dataset of cars using Streamlit and Plotly Express.
 # These plots include checkboxes to eliminate or show outliers in each visual
-
+#SHOWING THAT CHANGING THIS PYTHON SCRIPT WORKS FOR GITHUB
 # import necessary packages
 
 import streamlit as st
