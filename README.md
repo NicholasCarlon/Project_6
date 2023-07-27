@@ -1,2 +1,5 @@
-# The commit and push is working accordingly
- Project for Software Development Tools @Triple-Ten
+CAR DATA DISPLAY
+
+ANALYZING AND CREATING CHARTS FROM RAW & POLISHED CSV FILE(vehicles_us.csv)
+
+Link to website: ********TO BE DETERMINED NEED TO GET WORKING TO DEPLOY VIA RENDER.
